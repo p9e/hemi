@@ -4,8 +4,8 @@
 }
 
 :root {
-  background: #333;
-  color: #eee;
+  background: #111;
+  color: violet;
 }
 
 :any-link {
@@ -23,7 +23,7 @@
   text-decoration-color: #e0e;
 }
 
-mark {
-  background: hotpink;
+dl {
+  background: violet;
   color: #090909;
 }
